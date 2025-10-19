@@ -47,9 +47,9 @@ function aoFormSubmetido (formData) {
           </Label>
           <CampoDeEntrada
             type="text"
-            id="nome"
+            id="capa"
             placeholder='http://...'
-            name='nomeEvento'
+            name='capa'
           />
         </CampoFormulario>
         <CampoFormulario>
@@ -77,4 +77,5 @@ function aoFormSubmetido (formData) {
       </div>
     </form>
   )
+
 }
